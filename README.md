@@ -1,6 +1,8 @@
 # First Contributions
+#primeira contribuicao in pt
 
 A website to help people make their first open source contribution.
+Um site para ajudar as pessoas a fazerem sua primeira contribuição para projetos de código aberto.
 
 ## Features
 
@@ -8,6 +10,13 @@ A website to help people make their first open source contribution.
 - **Issue Integration**: View "good first issue" and "help wanted" issues directly from GitHub
 - **Bento Layout**: Modern, responsive card layout with varying heights
 - **Real-time Data**: Fetches live issue data from GitHub repositories
+- 
+## Funcionalidades
+
+- **Descoberta de Projetos**: Navegue por projetos de código aberto adequados para iniciantes
+- **Integração de Problemas**: Veja problemas de "boa primeira tarefa" e "precisa-se de ajuda" diretamente do GitHub
+- **Layout Bento**: Layout de cartão moderno e responsivo com alturas variáveis
+- **Dados em Tempo Real**: Busca dados de problemas em tempo real de repositórios do GitHub
 
 ## Setup
 
